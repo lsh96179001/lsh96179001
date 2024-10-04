@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lsh96179001
+
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning neuralnetwork
 
